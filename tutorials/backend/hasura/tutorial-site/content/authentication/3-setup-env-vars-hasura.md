@@ -28,4 +28,4 @@ You should end up with something like the following:
 
 Click on `Add` and your environment variable will be applied to the project.
 
-Great! Now your Hasura instance is secured using Auth0.
+Great! Now your Hasura instance is secured using Auth0. 
